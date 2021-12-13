@@ -1,0 +1,45 @@
+
+D
+static/css/admin.css,5\c\5c3fac4d0b427610f7ee7ab1963fac7f5eb660c0
+D
+accounts/__init__.py,6\6\66f55cad95e855b835d1f61bb875e90339c35887
+@
+accounts/apps.py,1\0\105856a1a16213228e6bf93c0ff567a0b51380c4
+B
+accounts/models.py,6\1\61552fe05711cbaa3244c18deedf1d76e08d2649
+A
+accounts/admin.py,a\3\a3360866a37a1817d2b7bff9b4bc78c975e3b58e
+A
+accounts/forms.py,4\2\423d51d4f9a16166c3e1046d2a92cb79899b60d0
+A
+accounts/tests.py,d\d\dd34e9e1474cddb9e5d2f2e680bd1cb27ebbab6e
+R
+"restaurants/migrations/__init__.py,b\7\b7de135482d2b005fd31d3f1767183d4b6501b28
+D
+FoodBank/settings.py,5\c\5c90a37a13f8f77eaa2cf10143929d6a4495586c
+Z
+*templates/restaurants/restaurant_form.html,a\6\a632c334e1cd9574399532db87cd823631b9bac4
+S
+#templates/registration/profile.html,9\e\9e953086c47201596f994e3c0144ca272f69d8eb
+[
++templates/registration/profile_picture.html,2\4\243c3519f5ef1b921f0ad477c1cf1b10ff5d41b8
+T
+$templates/registration/register.html,9\a\9a8cb63b5e2ad027eb23c1322c0a510854d3b016
+P
+ templates/partials/_widgets.html,1\5\15f95b578a8c6ed943bfa9602ba356cf16a6f1c1
+Q
+!templates/registration/login.html,7\b\7bddf72c7b5006bedb31206aeb760a16166f7b95
+d
+4templates/restaurants/restaurant_confirm_delete.html,d\a\daa9d170054197ff57b9642f726d7baf2e4a7418
+\
+,templates/restaurants/restaurant_detail.html,7\f\7f869140df876871cc3442307c43f3dee92d27f3
+O
+templates/partials/_styles.html,f\d\fd7d62011cc0daaf8145ad6735d768fbc6d341a0
+C
+restaurants/apps.py,d\2\d2212a5fba073536aa78b44a7766df3e7a448b9d
+N
+templates/admin/base_site.html,3\0\306e62245ac725f73af1cc7df5f39a8d75998bec
+9
+	manage.py,3\1\3156ad13e4d695cd526bbb7b031016ecba842270
+G
+restaurants/__init__.py,7\b\7b66c98e8c06555a854c7ead6f1a0e198aced787
